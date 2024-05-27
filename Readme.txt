@@ -26,7 +26,7 @@ Sequence of the projects for learning purposes:
 24 cs_con_AnonymousMethod
 25 cs_con_Generics
 26 cs_conFW_Destructor
-27 cs_conFW_Destructor_IDisposable
+  27 cs_conFW_Destructor_IDisposable
 28 cs_con_AnonymousTypes
 29 cs_con_LINQ
 30 cs_con_Events
