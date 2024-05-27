@@ -1,0 +1,8 @@
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_conFW_Destructor_IDisposable\bin\Debug\cs_conFW_Destructor_IDisposable.exe.config
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_conFW_Destructor_IDisposable\bin\Debug\cs_conFW_Destructor_IDisposable.exe
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_conFW_Destructor_IDisposable\bin\Debug\cs_conFW_Destructor_IDisposable.pdb
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_conFW_Destructor_IDisposable\obj\Debug\cs_conFW_Destructor_IDisposable.csproj.AssemblyReference.cache
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_conFW_Destructor_IDisposable\obj\Debug\cs_conFW_Destructor_IDisposable.csproj.SuggestedBindingRedirects.cache
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_conFW_Destructor_IDisposable\obj\Debug\cs_conFW_Destructor_IDisposable.csproj.CoreCompileInputs.cache
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_conFW_Destructor_IDisposable\obj\Debug\cs_conFW_Destructor_IDisposable.exe
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_conFW_Destructor_IDisposable\obj\Debug\cs_conFW_Destructor_IDisposable.pdb

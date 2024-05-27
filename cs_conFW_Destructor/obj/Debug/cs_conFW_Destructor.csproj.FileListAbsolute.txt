@@ -1,0 +1,8 @@
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_conFW_Destructor\bin\Debug\cs_conFW_Destructor.exe.config
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_conFW_Destructor\bin\Debug\cs_conFW_Destructor.exe
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_conFW_Destructor\bin\Debug\cs_conFW_Destructor.pdb
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_conFW_Destructor\obj\Debug\cs_conFW_Destructor.csproj.AssemblyReference.cache
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_conFW_Destructor\obj\Debug\cs_conFW_Destructor.csproj.SuggestedBindingRedirects.cache
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_conFW_Destructor\obj\Debug\cs_conFW_Destructor.csproj.CoreCompileInputs.cache
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_conFW_Destructor\obj\Debug\cs_conFW_Destructor.exe
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_conFW_Destructor\obj\Debug\cs_conFW_Destructor.pdb

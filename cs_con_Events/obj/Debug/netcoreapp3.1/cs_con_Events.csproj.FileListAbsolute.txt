@@ -1,0 +1,14 @@
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Events\bin\Debug\netcoreapp3.1\cs_con_Events.exe
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Events\bin\Debug\netcoreapp3.1\cs_con_Events.deps.json
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Events\bin\Debug\netcoreapp3.1\cs_con_Events.runtimeconfig.json
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Events\bin\Debug\netcoreapp3.1\cs_con_Events.runtimeconfig.dev.json
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Events\bin\Debug\netcoreapp3.1\cs_con_Events.dll
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Events\bin\Debug\netcoreapp3.1\cs_con_Events.pdb
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Events\obj\Debug\netcoreapp3.1\cs_con_Events.csproj.AssemblyReference.cache
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Events\obj\Debug\netcoreapp3.1\cs_con_Events.GeneratedMSBuildEditorConfig.editorconfig
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Events\obj\Debug\netcoreapp3.1\cs_con_Events.AssemblyInfoInputs.cache
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Events\obj\Debug\netcoreapp3.1\cs_con_Events.AssemblyInfo.cs
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Events\obj\Debug\netcoreapp3.1\cs_con_Events.csproj.CoreCompileInputs.cache
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Events\obj\Debug\netcoreapp3.1\cs_con_Events.dll
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Events\obj\Debug\netcoreapp3.1\cs_con_Events.pdb
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Events\obj\Debug\netcoreapp3.1\cs_con_Events.genruntimeconfig.cache

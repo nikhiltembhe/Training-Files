@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Birlasoft Training Sir Files\\Files 01-09-2022\\Birlasoft-Group02-main\\Birlasoft-Group02-main\\DotNet\\CSharpDemos\\cs_con_Tasks\\cs_con_Tasks.csproj",
+      "projectUniqueName": "E:\\BirlaSoft\\Birlasoft Training Sir Files\\Files 01-09-2022\\Birlasoft-Group02-main\\Birlasoft-Group02-main\\DotNet\\CSharpDemos\\cs_con_Tasks\\cs_con_Tasks.csproj",
       "projectName": "cs_con_Tasks",
-      "projectPath": "F:\\Birlasoft Training Sir Files\\Files 01-09-2022\\Birlasoft-Group02-main\\Birlasoft-Group02-main\\DotNet\\CSharpDemos\\cs_con_Tasks\\cs_con_Tasks.csproj",
+      "projectPath": "E:\\BirlaSoft\\Birlasoft Training Sir Files\\Files 01-09-2022\\Birlasoft-Group02-main\\Birlasoft-Group02-main\\DotNet\\CSharpDemos\\cs_con_Tasks\\cs_con_Tasks.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "F:\\Birlasoft Training Sir Files\\Files 01-09-2022\\Birlasoft-Group02-main\\Birlasoft-Group02-main\\DotNet\\CSharpDemos\\cs_con_Tasks\\obj\\",
+      "outputPath": "E:\\BirlaSoft\\Birlasoft Training Sir Files\\Files 01-09-2022\\Birlasoft-Group02-main\\Birlasoft-Group02-main\\DotNet\\CSharpDemos\\cs_con_Tasks\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

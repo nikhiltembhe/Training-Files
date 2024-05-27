@@ -1,0 +1,7 @@
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Parallel\bin\Debug\cs_con_Parallel.exe
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Parallel\bin\Debug\cs_con_Parallel.pdb
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Parallel\obj\Debug\cs_con_Parallel.csproj.AssemblyReference.cache
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Parallel\obj\Debug\cs_con_Parallel.csproj.SuggestedBindingRedirects.cache
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Parallel\obj\Debug\cs_con_Parallel.csproj.CoreCompileInputs.cache
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Parallel\obj\Debug\cs_con_Parallel.exe
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Parallel\obj\Debug\cs_con_Parallel.pdb

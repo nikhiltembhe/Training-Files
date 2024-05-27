@@ -1,0 +1,14 @@
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_ReferenceTypes\bin\Debug\netcoreapp3.1\cs_con_ReferenceTypes.exe
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_ReferenceTypes\bin\Debug\netcoreapp3.1\cs_con_ReferenceTypes.deps.json
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_ReferenceTypes\bin\Debug\netcoreapp3.1\cs_con_ReferenceTypes.runtimeconfig.json
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_ReferenceTypes\bin\Debug\netcoreapp3.1\cs_con_ReferenceTypes.runtimeconfig.dev.json
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_ReferenceTypes\bin\Debug\netcoreapp3.1\cs_con_ReferenceTypes.dll
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_ReferenceTypes\bin\Debug\netcoreapp3.1\cs_con_ReferenceTypes.pdb
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_ReferenceTypes\obj\Debug\netcoreapp3.1\cs_con_ReferenceTypes.csproj.AssemblyReference.cache
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_ReferenceTypes\obj\Debug\netcoreapp3.1\cs_con_ReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_ReferenceTypes\obj\Debug\netcoreapp3.1\cs_con_ReferenceTypes.AssemblyInfoInputs.cache
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_ReferenceTypes\obj\Debug\netcoreapp3.1\cs_con_ReferenceTypes.AssemblyInfo.cs
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_ReferenceTypes\obj\Debug\netcoreapp3.1\cs_con_ReferenceTypes.csproj.CoreCompileInputs.cache
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_ReferenceTypes\obj\Debug\netcoreapp3.1\cs_con_ReferenceTypes.dll
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_ReferenceTypes\obj\Debug\netcoreapp3.1\cs_con_ReferenceTypes.pdb
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_ReferenceTypes\obj\Debug\netcoreapp3.1\cs_con_ReferenceTypes.genruntimeconfig.cache

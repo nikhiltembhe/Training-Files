@@ -1,0 +1,14 @@
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_LibMgmt\bin\Debug\netcoreapp3.1\cs_con_LibMgmt.exe
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_LibMgmt\bin\Debug\netcoreapp3.1\cs_con_LibMgmt.deps.json
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_LibMgmt\bin\Debug\netcoreapp3.1\cs_con_LibMgmt.runtimeconfig.json
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_LibMgmt\bin\Debug\netcoreapp3.1\cs_con_LibMgmt.runtimeconfig.dev.json
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_LibMgmt\bin\Debug\netcoreapp3.1\cs_con_LibMgmt.dll
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_LibMgmt\bin\Debug\netcoreapp3.1\cs_con_LibMgmt.pdb
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_LibMgmt\obj\Debug\netcoreapp3.1\cs_con_LibMgmt.csproj.AssemblyReference.cache
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_LibMgmt\obj\Debug\netcoreapp3.1\cs_con_LibMgmt.GeneratedMSBuildEditorConfig.editorconfig
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_LibMgmt\obj\Debug\netcoreapp3.1\cs_con_LibMgmt.AssemblyInfoInputs.cache
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_LibMgmt\obj\Debug\netcoreapp3.1\cs_con_LibMgmt.AssemblyInfo.cs
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_LibMgmt\obj\Debug\netcoreapp3.1\cs_con_LibMgmt.csproj.CoreCompileInputs.cache
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_LibMgmt\obj\Debug\netcoreapp3.1\cs_con_LibMgmt.dll
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_LibMgmt\obj\Debug\netcoreapp3.1\cs_con_LibMgmt.pdb
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_LibMgmt\obj\Debug\netcoreapp3.1\cs_con_LibMgmt.genruntimeconfig.cache

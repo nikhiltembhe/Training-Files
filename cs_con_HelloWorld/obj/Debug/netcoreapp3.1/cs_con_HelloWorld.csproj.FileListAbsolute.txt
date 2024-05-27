@@ -1,0 +1,14 @@
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_HelloWorld\bin\Debug\netcoreapp3.1\cs_con_HelloWorld.exe
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_HelloWorld\bin\Debug\netcoreapp3.1\cs_con_HelloWorld.deps.json
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_HelloWorld\bin\Debug\netcoreapp3.1\cs_con_HelloWorld.runtimeconfig.json
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_HelloWorld\bin\Debug\netcoreapp3.1\cs_con_HelloWorld.runtimeconfig.dev.json
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_HelloWorld\bin\Debug\netcoreapp3.1\cs_con_HelloWorld.dll
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_HelloWorld\bin\Debug\netcoreapp3.1\cs_con_HelloWorld.pdb
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_HelloWorld\obj\Debug\netcoreapp3.1\cs_con_HelloWorld.csproj.AssemblyReference.cache
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_HelloWorld\obj\Debug\netcoreapp3.1\cs_con_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_HelloWorld\obj\Debug\netcoreapp3.1\cs_con_HelloWorld.AssemblyInfoInputs.cache
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_HelloWorld\obj\Debug\netcoreapp3.1\cs_con_HelloWorld.AssemblyInfo.cs
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_HelloWorld\obj\Debug\netcoreapp3.1\cs_con_HelloWorld.csproj.CoreCompileInputs.cache
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_HelloWorld\obj\Debug\netcoreapp3.1\cs_con_HelloWorld.dll
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_HelloWorld\obj\Debug\netcoreapp3.1\cs_con_HelloWorld.pdb
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_HelloWorld\obj\Debug\netcoreapp3.1\cs_con_HelloWorld.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Generics\bin\Debug\netcoreapp3.1\cs_con_Generics.exe
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Generics\bin\Debug\netcoreapp3.1\cs_con_Generics.deps.json
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Generics\bin\Debug\netcoreapp3.1\cs_con_Generics.runtimeconfig.json
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Generics\bin\Debug\netcoreapp3.1\cs_con_Generics.runtimeconfig.dev.json
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Generics\bin\Debug\netcoreapp3.1\cs_con_Generics.dll
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Generics\bin\Debug\netcoreapp3.1\cs_con_Generics.pdb
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Generics\obj\Debug\netcoreapp3.1\cs_con_Generics.csproj.AssemblyReference.cache
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Generics\obj\Debug\netcoreapp3.1\cs_con_Generics.GeneratedMSBuildEditorConfig.editorconfig
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Generics\obj\Debug\netcoreapp3.1\cs_con_Generics.AssemblyInfoInputs.cache
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Generics\obj\Debug\netcoreapp3.1\cs_con_Generics.AssemblyInfo.cs
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Generics\obj\Debug\netcoreapp3.1\cs_con_Generics.csproj.CoreCompileInputs.cache
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Generics\obj\Debug\netcoreapp3.1\cs_con_Generics.dll
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Generics\obj\Debug\netcoreapp3.1\cs_con_Generics.pdb
+E:\BirlaSoft\Birlasoft Training Sir Files\Files 01-09-2022\Birlasoft-Group02-main\Birlasoft-Group02-main\DotNet\CSharpDemos\cs_con_Generics\obj\Debug\netcoreapp3.1\cs_con_Generics.genruntimeconfig.cache

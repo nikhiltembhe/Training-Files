@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Birlasoft Training Sir Files\\Files 01-09-2022\\Birlasoft-Group02-main\\Birlasoft-Group02-main\\DotNet\\CSharpDemos\\cs_con_ValueTypes\\cs_con_ValueTypes.csproj": {}
+    "E:\\BirlaSoft\\Birlasoft Training Sir Files\\Files 01-09-2022\\Birlasoft-Group02-main\\Birlasoft-Group02-main\\DotNet\\CSharpDemos\\cs_con_ValueTypes\\cs_con_ValueTypes.csproj": {}
   },
   "projects": {
-    "F:\\Birlasoft Training Sir Files\\Files 01-09-2022\\Birlasoft-Group02-main\\Birlasoft-Group02-main\\DotNet\\CSharpDemos\\cs_con_ValueTypes\\cs_con_ValueTypes.csproj": {
+    "E:\\BirlaSoft\\Birlasoft Training Sir Files\\Files 01-09-2022\\Birlasoft-Group02-main\\Birlasoft-Group02-main\\DotNet\\CSharpDemos\\cs_con_ValueTypes\\cs_con_ValueTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Birlasoft Training Sir Files\\Files 01-09-2022\\Birlasoft-Group02-main\\Birlasoft-Group02-main\\DotNet\\CSharpDemos\\cs_con_ValueTypes\\cs_con_ValueTypes.csproj",
+        "projectUniqueName": "E:\\BirlaSoft\\Birlasoft Training Sir Files\\Files 01-09-2022\\Birlasoft-Group02-main\\Birlasoft-Group02-main\\DotNet\\CSharpDemos\\cs_con_ValueTypes\\cs_con_ValueTypes.csproj",
         "projectName": "cs_con_ValueTypes",
-        "projectPath": "F:\\Birlasoft Training Sir Files\\Files 01-09-2022\\Birlasoft-Group02-main\\Birlasoft-Group02-main\\DotNet\\CSharpDemos\\cs_con_ValueTypes\\cs_con_ValueTypes.csproj",
+        "projectPath": "E:\\BirlaSoft\\Birlasoft Training Sir Files\\Files 01-09-2022\\Birlasoft-Group02-main\\Birlasoft-Group02-main\\DotNet\\CSharpDemos\\cs_con_ValueTypes\\cs_con_ValueTypes.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "F:\\Birlasoft Training Sir Files\\Files 01-09-2022\\Birlasoft-Group02-main\\Birlasoft-Group02-main\\DotNet\\CSharpDemos\\cs_con_ValueTypes\\obj\\",
+        "outputPath": "E:\\BirlaSoft\\Birlasoft Training Sir Files\\Files 01-09-2022\\Birlasoft-Group02-main\\Birlasoft-Group02-main\\DotNet\\CSharpDemos\\cs_con_ValueTypes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

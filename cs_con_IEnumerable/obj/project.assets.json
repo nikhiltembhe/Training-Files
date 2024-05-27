@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Birlasoft Training Sir Files\\Files 01-09-2022\\Birlasoft-Group02-main\\Birlasoft-Group02-main\\DotNet\\CSharpDemos\\cs_con_IEnumerable\\cs_con_IEnumerable.csproj",
+      "projectUniqueName": "E:\\BirlaSoft\\Birlasoft Training Sir Files\\Files 01-09-2022\\Birlasoft-Group02-main\\Birlasoft-Group02-main\\DotNet\\CSharpDemos\\cs_con_IEnumerable\\cs_con_IEnumerable.csproj",
       "projectName": "cs_con_IEnumerable",
-      "projectPath": "F:\\Birlasoft Training Sir Files\\Files 01-09-2022\\Birlasoft-Group02-main\\Birlasoft-Group02-main\\DotNet\\CSharpDemos\\cs_con_IEnumerable\\cs_con_IEnumerable.csproj",
+      "projectPath": "E:\\BirlaSoft\\Birlasoft Training Sir Files\\Files 01-09-2022\\Birlasoft-Group02-main\\Birlasoft-Group02-main\\DotNet\\CSharpDemos\\cs_con_IEnumerable\\cs_con_IEnumerable.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "F:\\Birlasoft Training Sir Files\\Files 01-09-2022\\Birlasoft-Group02-main\\Birlasoft-Group02-main\\DotNet\\CSharpDemos\\cs_con_IEnumerable\\obj\\",
+      "outputPath": "E:\\BirlaSoft\\Birlasoft Training Sir Files\\Files 01-09-2022\\Birlasoft-Group02-main\\Birlasoft-Group02-main\\DotNet\\CSharpDemos\\cs_con_IEnumerable\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

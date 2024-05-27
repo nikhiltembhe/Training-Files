@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Birlasoft Training Sir Files\\Files 01-09-2022\\Birlasoft-Group02-main\\Birlasoft-Group02-main\\DotNet\\CSharpDemos\\cs_con_IComparable\\cs_con_IComparable.csproj",
+      "projectUniqueName": "E:\\BirlaSoft\\Birlasoft Training Sir Files\\Files 01-09-2022\\Birlasoft-Group02-main\\Birlasoft-Group02-main\\DotNet\\CSharpDemos\\cs_con_IComparable\\cs_con_IComparable.csproj",
       "projectName": "cs_con_IComparable",
-      "projectPath": "F:\\Birlasoft Training Sir Files\\Files 01-09-2022\\Birlasoft-Group02-main\\Birlasoft-Group02-main\\DotNet\\CSharpDemos\\cs_con_IComparable\\cs_con_IComparable.csproj",
+      "projectPath": "E:\\BirlaSoft\\Birlasoft Training Sir Files\\Files 01-09-2022\\Birlasoft-Group02-main\\Birlasoft-Group02-main\\DotNet\\CSharpDemos\\cs_con_IComparable\\cs_con_IComparable.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "F:\\Birlasoft Training Sir Files\\Files 01-09-2022\\Birlasoft-Group02-main\\Birlasoft-Group02-main\\DotNet\\CSharpDemos\\cs_con_IComparable\\obj\\",
+      "outputPath": "E:\\BirlaSoft\\Birlasoft Training Sir Files\\Files 01-09-2022\\Birlasoft-Group02-main\\Birlasoft-Group02-main\\DotNet\\CSharpDemos\\cs_con_IComparable\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

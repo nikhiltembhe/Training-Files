@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "cs_con_IComparable/1.0.0": {
+        "runtime": {
+          "cs_con_IComparable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cs_con_IComparable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
